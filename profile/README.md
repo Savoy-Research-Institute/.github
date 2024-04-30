@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to Savoy github page,
 
-At Savoy, we're dedicated to pushing the boundaries of drone technology and education. Our mission is to revolutionize the way people learn and interact with drones, making these innovative tools accessible to everyone.
+At Savoy, our long shot is to make drones that can perform deliveries, while this tech will end up being used everywhere, we think we can help make an impact, if we can deliver for hospitals, where the "twenty minute" delivery can make a difference,   
 
 ## Who We Are:
 
