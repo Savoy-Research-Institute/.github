@@ -1,10 +1,9 @@
 ## Hi there 👋
-Welcome to Savoy!
+Welcome to Savoy github page,
 
 At Savoy, we're dedicated to pushing the boundaries of drone technology and education. Our mission is to revolutionize the way people learn and interact with drones, making these innovative tools accessible to everyone.
 
 ## Who We Are:
-Savoy is a leading provider of drone hardware, software, and educational resources. We believe in the power of drones to transform industries and empower individuals, and we're committed to driving innovation in this exciting field.
 
 ## What We Offer:
 
