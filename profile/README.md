@@ -3,7 +3,7 @@ Welcome to Savoy github page,
 
 At Savoy, our long shot is to make drones that can perform deliveries, while this tech will end up being used everywhere, we think we can help make an impact, if we can deliver for hospitals, where the "twenty minute" delivery can make a difference,   
 
-"See, my friend James Mundia fell ill one day last year, his immune system was attacking the platelets in his blood, causing a deficiency, and in doing so made blood clotting difficult, and so needed platelets to stay healthy, the only facility with a trima accel machine is Aga Khan Nairobi, this brings us to a day, I had an appointment to get the procedure done, 
+"See, my friend James fell ill one day last year, his immune system was attacking the platelets in his blood, causing a deficiency, and in doing so made blood clotting difficult, and so needed platelets to stay healthy, the only facility with a trima accel machine is Aga Khan Nairobi, this brings us to a day, I had an appointment to get the procedure done, 
 We were done by 1300hrs, at this time he is nosebleeding far away in kikuyu, a situation of extreme urgency,  my mum calls them to say we are done, and they say someone from the hosptal will come pick it up later, at around 1600hs, 
 A drone should have done the delivery, and the next one, it would have taken minutes, not once, but everytime, instant relief, a relief that is not yet there, it would save lives."
 
